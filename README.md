@@ -5,4 +5,5 @@
 praticar a marcação com HTML e aplicar os primeiros estilos com CSS. Foi um passo importante para ganhar confiança e seguir evoluindo na área de desenvolvimento web. :white_check_mark: :muscle: </h2>
   <br>
   <br>
-  
+  <img scr="https://github.com/user-attachments/assets/f27bbd8e-f1d5-4bba-8659-659e42892ac7" />
+  <br>
