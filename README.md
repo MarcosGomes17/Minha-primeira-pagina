@@ -12,6 +12,6 @@
 <br>
 <br>
 
-<img src="https://raw.githubusercontent.com/MarcosGomes17/Minha-primeira-pagina/ab501cfc6423889fabfb17e688c687d2b3171080/IMG/desktop-e-mobile.jpg">
+<img src="https://github.com/MarcosGomes17/Minha-primeira-pagina/blob/master/IMG/desktop-e-mobile.jpg?raw=true">
 
 <br>
